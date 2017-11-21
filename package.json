@@ -1,6 +1,6 @@
 {
   "name": "redux-back",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight middleware for enabling Back and Forward browser controls for a Single/Multi-page Web Application",
   "main": "build/index.js",
   "scripts": {
