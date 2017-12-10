@@ -1,5 +1,5 @@
 describe("initial", () => {
     it("should work", () => {
-        expect(true).toBe(false)
+        expect(true).toBe(true)
     })
 })
